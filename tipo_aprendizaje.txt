@@ -1,0 +1,2 @@
+insert into nivel_aprendizaje(id_forma_aprendizaje, nivel) values(72,9)
+insert into nivel_aprendizaje(id_forma_aprendizaje, nivel) values(73,15)

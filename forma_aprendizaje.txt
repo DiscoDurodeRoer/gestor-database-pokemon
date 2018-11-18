@@ -1,0 +1,2 @@
+insert into forma_aprendizaje values(72,3)
+insert into forma_aprendizaje values(73,3)
